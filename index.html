@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <title>Search Turkish Subtitles</title>
+
+    <style>
+      html { font-family: 'helvetica'; color: #555 }
+      #input-container { text-align: center; margin: 30px; }
+      input { padding: 8px 10px; font-size: 16px; border-radius: 5px; outline: none; border: 1px solid #aaa;}
+      button { font-size: 16px; padding: 8px 10px; border: 1px solid #aaa; border-radius: 5px; background-color: white; cursor: pointer;}
+      #result-count { font-size: 12px; color: #bbb; margin-top: 10px;}
+      #results { margin: 50px 100px; display: flex; flex-wrap: wrap;}
+      .highlight { width: 500px; margin: 50px 30px;}
+      .title { font-weight: bold; text-align: center; margin-bottom: 20px; font-size: 14px; display: block; color: inherit; text-decoration: none;}
+      .text { font-size: 16px; margin: 10px 20px; border-radius: 5px; padding: 10px 15px; line-height: 1.5em; display: flex;}
+      .text:nth-child(odd) { background-color: #eee }
+      .time { font-size: 12px; opacity: 0.5; margin-right: 10px;}
+    </style>
+  </head>
+
+  <body>
+    <div id="input-container">
+      <input id="search-input" type="text" value="merhaba" autofocus />
+      <button id="search-button">Search</button>
+      <div id="result-count"></div>
+    </div>
+
+    <div id="results"></div>
+
+    <script>
+      const button = document.getElementById('search-button');
+      const input = document.getElementById('search-input');
+      const resultContainer = document.getElementById('results');
+      const resultCount = document.getElementById('result-count');
+
+      const convertTimeStringToSeconds = (time) => {
+        // 1:32:47
+        const [hours, minutes, seconds] = time.split(':');
+        const offsetSeconds = 3; // Seek to before the highlight starts.
+        return parseInt(hours)*3600 + parseInt(minutes)*60 + parseInt(seconds) - offsetSeconds;
+      }
+
+      const submitQuery = () => {
+        const queryString = input.value.trim();
+        const request = new XMLHttpRequest();
+        const url = new URL("http://localhost:8080/search");
+        url.searchParams.set('q', queryString);
+        request.responseType = 'json';
+        request.open("GET", url, true);
+
+        request.onload = function() {
+          if (this.status != 200) {
+            alert(`Error ${this.status}: ${this.statusText}`);
+          }
+          else {
+            resultContainer.innerHTML = '';
+            const hits = this.response['hits'];
+
+            resultCount.innerHTML = `${hits.length} results`;
+
+            for (const hit of hits) {
+              console.log(hit);
+              const {title, videoId, isDubbed, startTime, html} = hit;
+              const startTimeSeconds = convertTimeStringToSeconds(startTime)
+              const netflixUrl = `https://netflix.com/watch/${videoId}?t=${startTimeSeconds}`
+
+              resultContainer.innerHTML += `
+                <div class="highlight">
+                  <a class="title" href="${netflixUrl}" target="_blank">
+                    ${title}
+                    ${isDubbed ? '' : '🇹🇷'}
+                  </a>
+                  ${html}
+                </div>
+              `
+            }
+          }
+        }
+
+        request.onerror = function() {
+          alert("Request failed.")
+        }
+        request.send()
+      }
+
+      button.addEventListener("click", submitQuery);
+      input.addEventListener("keyup", (event) => {
+        event.preventDefault();
+        if (event.keyCode === 13) {
+          submitQuery();
+        }
+      })
+
+
+    </script>
+  </body>
+</html>
