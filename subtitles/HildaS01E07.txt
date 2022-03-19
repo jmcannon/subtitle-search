@@ -51,10 +51,10 @@ Hava durumu tahmini uygun. Gidelim mi?
 Salatalıklı sandviç, naneli soğuk çay yapmıştım.
 
 00:01:33.259
-Teşekkür...
+Teşekkür. . .
 
 00:01:35.970
-...ederim.
+. . .ederim.
 
 00:01:36.888
 Hadi. Şimdiden programın gerisindeyiz.
@@ -96,7 +96,7 @@ Yeni deneyimler, maceralar yaşamak demek.
 Neden taç yaprak manivore aramıyoruz?
 
 00:02:12.215
-Ya da yılan sarmaşığı ya da...
+Ya da yılan sarmaşığı ya da. . .
 
 00:02:15.218
 Bunlardan biri.
@@ -162,10 +162,10 @@ Ve dinleyin.
 Ben burada bekleyeyim.
 
 00:03:20.575
-Bu ne ki...
+Bu ne ki. . .
 
 00:03:21.618
-Muhtemelen bir çeşit yankı...
+Muhtemelen bir çeşit yankı. . .
 
 00:03:23.953
 Durun.
@@ -267,7 +267,7 @@ Bu imkânsız görünüyor.
 Trolberg'teki tek elf benim.
 
 00:05:29.162
-Tabii...
+Tabii. . .
 
 00:05:30.288
 Tabii ne? Merhaba.
@@ -393,7 +393,7 @@ Kral'a bitmemiş bir sözleşme götürmek ihanet demekmiş.
 Braga Ailesi'ni anında sürgün etmiş.
 
 00:07:51.512
-Sözleşme teknik olarak bitmediği için Kral o bölgeyi şöyle ilan etmiş...
+Sözleşme teknik olarak bitmediği için Kral o bölgeyi şöyle ilan etmiş. . .
 
 00:07:56.642
 Elfsiz bölge!
@@ -495,7 +495,7 @@ Hayır.
 Bundan fazlası var.
 
 00:09:49.338
-Sen...
+Sen. . .
 
 00:09:51.173
 Sen bir Aldrich'sin, değil mi?
@@ -516,10 +516,10 @@ Bu pek adil bir yorum olmadı.
 Ailenin suçlarının cezasını çekmelisin. Bir düello olmalı.
 
 00:10:18.534
-Anges dâhil dört tavşan savaşçımızı yenmeden...
+Anges dâhil dört tavşan savaşçımızı yenmeden. . .
 
 00:10:23.956
-...buradan gidemezsin.
+. . .buradan gidemezsin.
 
 00:10:31.339
 Ama tavşana binmeyi bile bilmiyorum.
@@ -678,7 +678,7 @@ Sen yapar mısın? Üzgünüm.
 Ciğerlerim ufak.
 
 00:13:40.820
-Şöyle bir ses çıkarmaya çalış...
+Şöyle bir ses çıkarmaya çalış. . .
 
 00:13:51.956
 Tam olarak ne çağırıyorum?
@@ -696,7 +696,7 @@ Sorun yok Twig.
 Hemen döneceğiz.
 
 00:15:00.524
-Söylesene, sen...
+Söylesene, sen. . .
 
 00:15:03.235
 Esirken genellikle neler yaparsın?
@@ -711,13 +711,13 @@ Ayrıca bu taraftayım. Saçında bir böcek olduğunu biliyor muydun?
 Pekâlâ, kitaba göre yaprak solucanı yuvasının belirtileri,
 
 00:15:28.594
-dağınık yapraklar, ters dönmüş toprak...
+dağınık yapraklar, ters dönmüş toprak. . .
 
 00:15:32.056
 Ve duman bulutu mu?
 
 00:15:33.849
-Evet, kesinlikle. Bunu nereden...
+Evet, kesinlikle. Bunu nereden. . .
 
 00:15:45.110
 Burası bir bahçe.
@@ -750,10 +750,10 @@ Burun delikleri.
 Bu harika, uyandırmak zorunda bile değiliz.
 
 00:16:39.456
-Sözleşmeyi burnunun önünde tutarız ve puf...
+Sözleşmeyi burnunun önünde tutarız ve puf. . .
 
 00:16:43.293
-...sorun çözülür.
+. . .sorun çözülür.
 
 00:16:44.753
 Sence bu gerçekten iyi bir fikir mi? Biraz tehlikeli gibi.
@@ -771,7 +771,7 @@ Hadi.
 Neden bana uyurken gizlice yaklaşıyorsunuz?
 
 00:17:22.041
-Üzgünüz, biz yalnızca...
+Üzgünüz, biz yalnızca. . .
 
 00:17:23.584
 Elbette, sözleşmeden kurtulmak isteyen bir elf daha.
@@ -807,7 +807,7 @@ Hatta katılan herkes için oldukça cazip bir sözleşme yapmak için buradayı
 Sizde benim ilgimi çekecek nasıl bir şey olabilir ki?
 
 00:18:23.102
-Şey...
+Şey. . .
 
 00:18:25.312
 Hilda?
@@ -834,10 +834,10 @@ Ben dünyanın gerçek hazinelerini tercih ederim.
 Biz de öyle.
 
 00:18:48.627
-Hatta bütün sabah eşsiz, ilginç...
+Hatta bütün sabah eşsiz, ilginç. . .
 
 00:18:53.132
-...örnekler topladık.
+. . .örnekler topladık.
 
 00:18:55.467
 Değil mi?

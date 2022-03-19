@@ -201,7 +201,7 @@ Evet ve yanlışlıkla evinden atılmış.
 Kötü bir şey yapmış olmasın?
 
 00:05:03.386
--Eminim. Güven bana, o... -Hilda. Sana güveniyorum.
+-Eminim. Güven bana, o. . . -Hilda. Sana güveniyorum.
 
 00:05:08.766
 Pekâlâ.
@@ -417,7 +417,7 @@ Trolberg resmî görevlileri köpeğin
 üç kişiyi yediğine dair güçlü delil olduğunu söyledi.
 
 00:09:53.050
-Ayrıntılar...
+Ayrıntılar. . .
 
 00:09:54.135
 Yatmadan bunu dinlemeyelim.
@@ -792,7 +792,7 @@ Bu da ne?
 -Köpeği arayanlar. -Onlardan kurtulmalısın.
 
 00:18:33.028
-Hilda, belki de en iyisi...
+Hilda, belki de en iyisi. . .
 
 00:18:35.239
 Hayır anne!
@@ -804,7 +804,7 @@ Ne düşündüğünü biliyorum ama o çok tehlikeli bir hayvan.
 O bir yavru. Twig'den bir farkı yok.
 
 00:18:42.704
-Hilda...
+Hilda. . .
 
 00:18:44.081
 Bunu kanıtlayacak bir rozetim yok ama yine de hayvanseverim.

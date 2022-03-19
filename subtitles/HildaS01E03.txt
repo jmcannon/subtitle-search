@@ -123,7 +123,7 @@ Hadisene!
 Merhaba canım, nasıl yardımcı olabilirim?
 
 00:04:00.531
-Size şunu demek istemiştim...
+Size şunu demek istemiştim. . .
 
 00:04:04.077
 Çiçekleriniz çok güzel demek istemiştim.
@@ -171,7 +171,7 @@ Ne? Yalnızca bir kuş.
 İyi misin?
 
 00:05:39.380
-İyiyim... Sanırım.
+İyiyim. . . Sanırım.
 
 00:05:42.175
 -Az önce o kuş konuştu mu? -Hayır.
@@ -327,10 +327,10 @@ Anne! Dur! Geri dön!
 Üzgünüm ama evimiz garip kuşlara uygun bir yer değil. Kış kış!
 
 00:08:59.539
-Merak etme, yardım için...
+Merak etme, yardım için. . .
 
 00:09:03.209
-...yanındayım.
+. . .yanındayım.
 
 00:09:07.004
 Cüzdanımı aldım. Gidelim.
@@ -372,7 +372,7 @@ Dehşet, aşağılanma! Ben bittim, hapı yuttum.
 Yangın merdivenine dönsek iyi olur.
 
 00:10:08.149
--Nasıl? -Ben uçarak...
+-Nasıl? -Ben uçarak. . .
 
 00:10:11.944
 Heykeli yürüyerek aramalıyız.
@@ -426,7 +426,7 @@ hasat mahvoldu falan.
 -Kıtlık ve veba gibi şeyler. -Pekâlâ.
 
 00:11:22.515
-Selamlar izci dostlarım! Nasılsınız? Bu kızım...
+Selamlar izci dostlarım! Nasılsınız? Bu kızım. . .
 
 00:11:27.728
 Affedersiniz.
@@ -465,7 +465,7 @@ Olamaz! Hadi! Belki de hâlâ binanın yakınlarındadır.
 Gitmiş! Ama neyi aradığını biliyorum!
 
 00:12:13.733
-Hatırladığı tek şey bir heykel. Kel, sakallı ve...
+Hatırladığı tek şey bir heykel. Kel, sakallı ve. . .
 
 00:12:17.695
 Pelerinli mi?
@@ -537,10 +537,10 @@ Farklı arabalar ve kaldırımda bitkiler var.
 Gördün mü? Şimdiden çözdün.
 
 00:13:33.479
-Yanlış anlama, Trolberg hâlâ bir taştan daha az ilginç...
+Yanlış anlama, Trolberg hâlâ bir taştan daha az ilginç. . .
 
 00:13:37.483
-...ama ona yakın.
+. . .ama ona yakın.
 
 00:13:39.944
 Sanırım heykele varmak üzereyiz. Hadi!
@@ -567,7 +567,7 @@ Arkadaşın nerede? Şu kız? Yardıma ihtiyacımız var.
 -Helga! -Aslında adı Hilda.
 
 00:14:10.558
-İsimlerle aram iyi değil... Sanırım.
+İsimlerle aram iyi değil. . . Sanırım.
 
 00:14:13.102
 İsimlerle aram iyi mi, kötü mü hiç bilmiyorum!
@@ -591,7 +591,7 @@ Burada değil. Bulamamış olmalı.
 Yüce Kuzgun nerede? Şimdiye burada olmalıydı.
 
 00:14:49.930
-Bir kuşun nereye gideceğini bulursak...
+Bir kuşun nereye gideceğini bulursak. . .
 
 00:14:54.393
 Şehirde kuşların ne yaptığına bakalım.

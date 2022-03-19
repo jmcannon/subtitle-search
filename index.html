@@ -60,6 +60,9 @@
             for (const hit of hits) {
               console.log(hit);
               const {title, videoId, isDubbed, startTime, html} = hit;
+              if (html == "") {
+                continue
+              }
               const startTimeSeconds = convertTimeStringToSeconds(startTime)
               const netflixUrl = `https://netflix.com/watch/${videoId}?t=${startTimeSeconds}`
 

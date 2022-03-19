@@ -74,7 +74,8 @@ for file_path in file_paths:
                         output_file.write(' '.join(text_list) + '\n')
                         text_list = []
                     else:
-                        text = re.sub('<[^<]+?>', '', line)
+                        text = re.sub('<[^<]+?>', '', line)  # Remove all HTML tags.
+                        text = text.replace('...', '. . .')  # '...' is the divider that Whoosh uses to separate highlights.
                         text_list.append(text)
 
                 elif line_type == 'SKIP':

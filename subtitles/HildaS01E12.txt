@@ -12,10 +12,10 @@ NO. 12: CİN
 Frida yine yok. Son zamanlarda hiç gördün mü?
 
 00:00:59.684
-Hayır, okul kapandığından beri ondan haber almayalı...
+Hayır, okul kapandığından beri ondan haber almayalı. . .
 
 00:01:04.689
-...epey oldu.
+. . .epey oldu.
 
 00:01:05.690
 Üç haftadır ortalarda yok.
@@ -66,10 +66,10 @@ Sen ne yaptın da vakit bulamadın?
 Seninle takıldım.
 
 00:01:52.654
-Ama bundan önce yıl sonu kamp gezisini...
+Ama bundan önce yıl sonu kamp gezisini. . .
 
 00:01:58.701
-...duyurmaktan mutluluk duyuyorum!
+. . .duyurmaktan mutluluk duyuyorum!
 
 00:02:02.705
 -İşte bu! -Süper.
@@ -138,7 +138,7 @@ Kampa gelemeyeceksen en azından bugün takılsak mı?
 Epey zaman oldu.
 
 00:03:15.612
-Şey, şöyle ki...
+Şey, şöyle ki. . .
 
 00:03:18.948
 Bu dış kapı mıydı?
@@ -165,7 +165,7 @@ Pekâlâ.
 -Geliyor musunuz? -Evet.
 
 00:03:54.400
-Gelebilirdik. Bir şeyler yapacaktık ama...
+Gelebilirdik. Bir şeyler yapacaktık ama. . .
 
 00:03:57.820
 Hayır, evimden çıkacak mısınız diyorum.
@@ -309,7 +309,7 @@ Korkunçtu. Aceleyle dışarı fırladım.
 Yalnızca bu çöp poşeti olduğu ortaya çıktı ama beni derinden sarstı.
 
 00:07:05.591
-Duygu yüklü sözcükler...
+Duygu yüklü sözcükler. . .
 
 00:07:08.136
 Gördün mü anne? Sorun yok.
@@ -528,13 +528,13 @@ Bir koltuk nasıl kanepenin arkasına düşer?
 Bir süre kullanılmayan ya da sevilmeyen şeyler bağış sanılabiliyor.
 
 00:11:20.388
-İster inan ister inanma, bir zamanlar bunun için ödüllendirilir...
+İster inan ister inanma, bir zamanlar bunun için ödüllendirilir. . .
 
 00:11:26.352
 Hey Tontu, şuna bak. Sana benziyorlar.
 
 00:11:29.230
-Onlar nisse mı? Sanırım onlar... Tontu?
+Onlar nisse mı? Sanırım onlar. . . Tontu?
 
 00:11:32.942
 Sana burada birinin olacağını söylemiştim.
@@ -543,10 +543,10 @@ Sana burada birinin olacağını söylemiştim.
 Hey! Onlar benim kıyafetlerim!
 
 00:12:24.160
-Neler...
+Neler. . .
 
 00:12:26.746
-Anne! Buna inanmayacaksın ama...
+Anne! Buna inanmayacaksın ama. . .
 
 00:12:28.914
 -Evimden defol! -Gittim.
@@ -555,10 +555,10 @@ Anne! Buna inanmayacaksın ama...
 Kötü göründüğünün farkındayım ama yaşayacak yeri yoktu,
 
 00:12:36.881
--ben de düşündüm ki... -Hayatta olmaz!
+-ben de düşündüm ki. . . -Hayatta olmaz!
 
 00:12:46.265
-Anne gerçekten üzgünüm. Yardım etmek istemiştim...
+Anne gerçekten üzgünüm. Yardım etmek istemiştim. . .
 
 00:12:49.852
 Döndüğünde konuşuruz, tamam mı?
@@ -636,13 +636,13 @@ Hiç. Sen buraya nasıl girdin ki?
 Bu gece geliyorsun, değil mi?
 
 00:14:44.300
-Şey...
+Şey. . .
 
 00:14:45.217
 Herkese geleceğini söyledim.
 
 00:14:47.261
-Başka işin varsa...
+Başka işin varsa. . .
 
 00:14:48.679
 Hayır! Elbette geliyorum.
@@ -810,7 +810,7 @@ Biz de sizi arıyorduk.
 Herkesi uyandıracaksın!
 
 00:18:34.279
-Bu kötü bir fikir. Yakalanırsak...
+Bu kötü bir fikir. Yakalanırsak. . .
 
 00:18:37.366
 Yalnızca biri yakalanma endişeni duyarsa yakalanırız. Hadi!
@@ -918,7 +918,7 @@ Olamaz. Lanet feneri orada bıraktım.
 Hilda?
 
 00:20:54.461
-Siyah...
+Siyah. . .
 
 00:20:56.171
 Siyah Köpek!
@@ -936,7 +936,7 @@ David! Hilda! Burada ne arıyorsunuz?
 Siyah Köpek geliyor!
 
 00:21:20.362
-Kaçmalıyız. Tam arkamdaydı. O...
+Kaçmalıyız. Tam arkamdaydı. O. . .
 
 00:21:29.454
 Bu çocukla alakalı anlatacak bazı hikâyelerim var.
