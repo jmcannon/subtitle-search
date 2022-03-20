@@ -105,9 +105,6 @@ def search():
                 start_time = get_start_time_of_highlight(highlight)
                 html = html_format_highlight(highlight)
 
-                print(highlight)
-                print('--------------------')
-
                 if start_time:
                     hits.append({
                         'title': hit['title'],

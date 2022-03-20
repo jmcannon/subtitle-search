@@ -2,6 +2,8 @@ import glob
 from whoosh.index import create_in
 from whoosh.fields import Schema, TEXT, STORED
 
+# Reads converted text files from /subtitles and builds a Whoosh search index.
+
 schema = Schema(content=TEXT(stored=True), title=STORED, videoId=STORED, dubbed=STORED)
 index = create_in("index", schema)
 writer = index.writer()
