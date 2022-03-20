@@ -37,8 +37,9 @@ for file_path in file_paths:
         title_parts = title.split('.')
         while not bool(re.match(r"S\d\dE\d\d", title_parts[-1])):
             title_parts.pop()
-        title = ''.join(title_parts)
+        title = '.'.join(title_parts)
 
+    title = title.replace("_", "")
     output_file_name = title
     title = title.replace('.', ' ')
 

@@ -93,7 +93,7 @@ def search():
         results = searcher.search(q, limit=None)
         results.fragmenter.charlimit = None     # With no charlimit, search will provide highlights to the end of the document.
         results.fragmenter.maxchars = 300       # Max length of a fragment.
-        results.fragmenter.surround = 150       # Number of characters to with which to surround the match for context.
+        results.fragmenter.surround = 100       # Number of characters to with which to surround the match for context.
 
         if (len(query_string.split(' ')) > 1) and 'AND' not in query_string and 'OR' not in query_string:
             results.scorer = PhraseScorer(query_string)
