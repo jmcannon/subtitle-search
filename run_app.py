@@ -7,7 +7,7 @@ from whoosh.highlight import FragmentScorer
 
 search_engine = open_dir("index")
 parser = QueryParser("content", schema=search_engine.schema)
-debug(True)
+debug(False)
 
 # Highlight content looks like this:
 #
@@ -55,6 +55,7 @@ class PhraseScorer(FragmentScorer):
     def __init__(self, phrase):
         # Get the list of words from the phrase query
         self.words = phrase.split(' ')
+        print(self.words)
 
     def __call__(self, f):
         # Create a dictionary mapping words to the positions the word
@@ -67,15 +68,15 @@ class PhraseScorer(FragmentScorer):
         # rest of the words appear in order at the subsequent positions
         first_word = self.words[0]
         for pos in d[first_word]:
-            found = False
+            found = 1
             for word in self.words[1:]:
                 pos += 1
                 if pos not in d[word]:
                     break
                 else:
-                    found = True
+                    found += 1
 
-            if found:
+            if found == len(self.words):
                 return 100
         return 0
 

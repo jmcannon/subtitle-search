@@ -18,6 +18,10 @@ Builds Whoosh index and storage from scratch every time. If this starts taking a
 run_app.py
 Runs the Bottle web server and provides a single GET endpoint /search that expects a GET param q that contains a query string plugged directly into Whoosh.
 
+KNOWN ISSUES:
+- Currently hacking highlights by using a custom Scorer when the query is more than one word. This however is breaking quotes and wildcards on multi-words queries.
+- Queries that have many matches (like common single words) are taking way too long.
+
 To use:
   python -m venv env
   source env/bin/activate

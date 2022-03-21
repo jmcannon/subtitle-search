@@ -12,7 +12,7 @@
       button { font-size: 16px; padding: 8px 10px; border: 1px solid #5463FF; border-radius: 5px; background-color: white; cursor: pointer; color: #5463FF;}
       button:hover { color: white; background-color: #5463FF; }
       #result-count { font-size: 12px; color: #bbb; margin-top: 10px;}
-      #results { margin: 50px 0px; display: flex; flex-wrap: wrap;}
+      #results { margin: 50px 0px; display: flex; flex-wrap: wrap; justify-content: center;}
       .match { color: #E04DB0; font-weight: bold;}
       .highlight { width: 480px; margin: 50px 30px;}
       .title { font-weight: bold; text-align: center; margin-bottom: 20px; font-size: 14px; display: block; color: #332FD0;}
@@ -24,7 +24,7 @@
 
   <body>
     <div id="input-container">
-      <input id="search-input" type="text" value="merhaba" autofocus />
+      <input id="search-input" type="text" autofocus />
       <button id="search-button">Search</button>
       <div id="result-count"></div>
     </div>

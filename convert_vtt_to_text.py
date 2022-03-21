@@ -24,6 +24,8 @@ file_paths = glob.glob('./downloads/*/*.vtt')
 for file_path in file_paths:
     is_dubbed = 'dubbed' in file_path   # Dubbed content should be placed in /downloads/dubbed/, native content in /downloads/native/
     file_name = os.path.basename(file_path)
+
+    file_name = file_name.replace('-', '', file_name.count('-')-1)  # Remove any extra hyphens.
     title, videoId = file_name.split('-')
 
     # Remove .vtt extension.

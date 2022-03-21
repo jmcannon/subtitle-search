@@ -20,4 +20,4 @@ for file_path in file_paths:
         content = f.read()
         writer.add_document(title=title, content=content, videoId=videoId, dubbed=dubbed)
 
-writer.commit()
+writer.commit(optimize=True)
