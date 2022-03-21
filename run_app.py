@@ -55,7 +55,6 @@ class PhraseScorer(FragmentScorer):
     def __init__(self, phrase):
         # Get the list of words from the phrase query
         self.words = phrase.split(' ')
-        print(self.words)
 
     def __call__(self, f):
         # Create a dictionary mapping words to the positions the word
@@ -96,7 +95,8 @@ def search():
         results.fragmenter.maxchars = 300       # Max length of a fragment.
         results.fragmenter.surround = 100       # Number of characters to with which to surround the match for context.
 
-        if (len(query_string.split(' ')) > 1) and 'AND' not in query_string and 'OR' not in query_string:
+        # Use a custom scorer to only surface exact matches in highlights. Ignore if wildcard, AND, or OR is used.
+        if (len(query_string.split(' ')) > 1) and 'AND' not in query_string and 'OR' not in query_string and '*' not in query_string:
             results.scorer = PhraseScorer(query_string)
 
         for hit in results:
