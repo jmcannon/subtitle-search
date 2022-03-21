@@ -20,6 +20,7 @@ import re
 # Titles looks like this:
 # Kırık.Kalpler.İçin.Astroloji.Rehberi.S02E06.Balık-81494845.vtt
 file_paths = glob.glob('./downloads/*/*.vtt')
+os.system('rm subtitles/*')
 
 for file_path in file_paths:
     is_dubbed = 'dubbed' in file_path   # Dubbed content should be placed in /downloads/dubbed/, native content in /downloads/native/
