@@ -11,6 +11,7 @@
       input { padding: 8px 10px; font-size: 16px; border-radius: 5px; outline: none; border: 1px solid #5463FF; color: #5463FF}
       button { font-size: 16px; padding: 8px 10px; border: 1px solid #5463FF; border-radius: 5px; background-color: white; cursor: pointer; color: #5463FF;}
       button:hover { color: white; background-color: #5463FF; }
+      #next-button { width: 300px; display: none; margin: 30px auto 100px; }
       #result-count { font-size: 12px; color: #bbb; margin-top: 10px;}
       #results { margin: 50px 0px; display: flex; flex-wrap: wrap; justify-content: center;}
       .match { color: #E04DB0; font-weight: bold;}
@@ -18,6 +19,7 @@
       .title { font-weight: bold; text-align: center; margin-bottom: 20px; font-size: 14px; display: block; color: #332FD0;}
       .text { font-size: 16px; margin: 10px 20px; border-radius: 5px; padding: 10px 15px; line-height: 1.5em; display: flex;}
       .text:nth-child(odd) { background-color: #e8f2ff }
+      .show { display: block !important }
       .time { font-size: 12px; opacity: 0.5; margin-right: 10px;}
     </style>
   </head>
@@ -31,11 +33,15 @@
 
     <div id="results"></div>
 
+    <button id="next-button">Next</button>
+
     <script>
-      const button = document.getElementById('search-button');
+      const searchButton = document.getElementById('search-button');
+      const nextButton = document.getElementById('next-button');
       const input = document.getElementById('search-input');
       const resultContainer = document.getElementById('results');
       const resultCount = document.getElementById('result-count');
+      let pageNumber = 1;
 
       const convertTimeStringToSeconds = (time) => {
         // 1:32:47
@@ -43,11 +49,29 @@
         return parseInt(hours)*3600 + parseInt(minutes)*60 + parseInt(seconds);
       }
 
+      const incrementPage = () => pageNumber += 1;
+      const showNextButton = () => nextButton.classList.add('show');
+      const hideNextButton = () => nextButton.classList.remove('show');
+      const makeNetflixUrl = (videoId, seconds) => `https://netflix.com/watch/${videoId}?t=${seconds}`;
+
+      const makeLineHTML = (line, videoId) => {
+        const timeSeconds = convertTimeStringToSeconds(line.time)
+        const netflixUrl = makeNetflixUrl(videoId, timeSeconds)
+
+        return (`
+          <div class='text' data-time="${line.time}">
+              <a class="time" href=${netflixUrl} target="_blank">${line.time}</a>
+              <div>${line.text}</div>
+          </div>
+        `)
+      }
+
       const submitQuery = () => {
         const queryString = input.value.trim();
         const request = new XMLHttpRequest();
         const url = new URL("http://localhost:8080/search");
         url.searchParams.set('q', queryString);
+        url.searchParams.set('page', pageNumber);
         request.responseType = 'json';
         request.open("GET", url, true);
 
@@ -56,18 +80,28 @@
             alert(`Error ${this.status}: ${this.statusText}`);
           }
           else {
-            resultContainer.innerHTML = '';
-            const hits = this.response['hits'];
+            const {hits, pageNumber, totalPages} = this.response;
 
-            resultCount.innerHTML = `${hits.length} results`;
+            incrementPage()
+            scroll(0, 0)
+            pageNumber === totalPages ? hideNextButton() : showNextButton()
+            resultContainer.innerHTML = '';
+
+            resultCount.innerHTML = `${hits.length} results | ${pageNumber} of ${totalPages}`;
 
             for (const hit of hits) {
-              const {title, videoId, isDubbed, startTime, html} = hit;
-              if (html == "") {
+              const {title, videoId, isDubbed, startTime, lines} = hit;
+              if (lines.length === 0) {
                 continue
               }
               const startTimeSeconds = convertTimeStringToSeconds(startTime)
-              const netflixUrl = `https://netflix.com/watch/${videoId}?t=${startTimeSeconds}`
+              const netflixUrl = makeNetflixUrl(videoId, startTimeSeconds)
+
+              let lineHTML = ''
+              for (const line of lines) {
+                lineHTML += makeLineHTML(line, videoId)
+              }
+              console.log(lineHTML)
 
               resultContainer.innerHTML += `
                 <div class="highlight">
@@ -75,7 +109,7 @@
                     ${title}
                     ${isDubbed ? '' : '🇹🇷'}
                   </a>
-                  ${html}
+                  ${lineHTML}
                 </div>
               `
             }
@@ -88,10 +122,15 @@
         request.send()
       }
 
-      button.addEventListener("click", submitQuery);
+      searchButton.addEventListener("click", () => {
+        pageNumber = 1;
+        submitQuery();
+      });
+      nextButton.addEventListener("click", submitQuery)
       input.addEventListener("keyup", (event) => {
         event.preventDefault();
         if (event.keyCode === 13) {
+          pageNumber = 1
           submitQuery();
         }
       })
