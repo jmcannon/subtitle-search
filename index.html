@@ -81,7 +81,6 @@
           }
           else {
             const {hits, pageNumber, totalPages} = this.response;
-
             incrementPage()
             scroll(0, 0)
             pageNumber === totalPages ? hideNextButton() : showNextButton()

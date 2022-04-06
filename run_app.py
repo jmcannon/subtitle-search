@@ -64,8 +64,9 @@ class PhraseScorer(FragmentScorer):
         # For each position the first word appears at, check to see if the
         # rest of the words appear in order at the subsequent positions
         first_word = self.words[0]
+
         for pos in d[first_word]:
-            # found = 1
+            #found = 1
             found = False
             for word in self.words[1:]:
                 pos += 1
@@ -106,7 +107,7 @@ def search():
 
         # Use a custom scorer to only surface exact matches in highlights. Ignore if wildcard, AND, or OR is used.
         if (len(query_string.split(' ')) > 1) and not has_special_chars(query_string):
-           results.scorer = PhraseScorer(query_string.replace('"', ''))
+            results.scorer = PhraseScorer(query_string.replace('"', ''))
 
         for hit in result_page:
             highlights = hit.highlights("content", top=20).split('...')
