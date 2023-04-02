@@ -10,7 +10,7 @@ implementation is fragile and will break on updates to the original TamperMonkey
 Subtitles are expected to be in .vtt format. If the .vtt subtitles are to native content, they should be placed in /downloads/native. Otherwise, in /downloads/dubbed.
 
 convert_vtt_to_text.py
-Converts all the .vtt files in /downloads to simple text files that will be written to Whoosh storage. Copies are saved in /subtitles.
+Converts all the .vtt files in /downloads to simple text files that will be written to Whoosh storage. Copes are saved in /subtitles.
 
 build_index.py
 Builds Whoosh index and storage from scratch every time. If this starts taking a long time, optimize by only writing new documents. There's an example in the Whoosh docs.
