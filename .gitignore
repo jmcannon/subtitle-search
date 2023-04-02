@@ -1,5 +1,6 @@
 *.pyc
 .DS_STORE
+downloads/
 env/
 index/
 .env/
