@@ -3,1102 +3,1108 @@ Arcane S01E04
 dubbed
 
 00:00:08.708
-BİR NETFLIX DİZİSİ
+UNA SERIE DE NETFLIX
 
 00:00:30.458
-Beni çağırmışsınız Profesör.
+¿Quería verme, profesor?
 
 00:00:32.041
-Gel Jayce.
+Adelante, Jayce.
 
 00:00:34.416
-İnanabiliyor musun? Şehrimiz 200 yaşına girmek üzere.
+¿Puedes creerlo? Nuestra ciudad está por cumplir 200 años.
 
 00:00:39.750
-İki yüzüncü yıl dönümü!
+¡Un bicentenario!
 
 00:00:42.041
-Muhteşem bir Gelişim Günü olacak.
+Se está convirtiendo en un increíble Día del Progreso.
 
 00:00:48.958
-"Stanwick Padidly" mi?
+¿"Stanwick Padidly"?
 
 00:00:52.791
-Onu tanımıyorum.
+No sé mucho de él.
 
 00:00:53.958
-Yaptığı her şey ya patladı, ya eridi ya da devrildi.
+Todo lo que construyó explotó, se derritió o se derrumbó.
 
 00:00:58.500
-Ama o hâlâ burada.
+Sin embargo, aquí está.
 
 00:01:01.833
-Stanwick kişisel hırslarını bir yana bırakıp
+Stanwick dejó de lado sus ambiciones personales
 
 00:01:05.208
-çok daha önemli bir şeye odaklandı.
+y se concentró en algo mucho más importante.
 
 00:01:08.416
-Geleceğimize.
+Nuestro futuro.
 
 00:01:09.958
-Herhangi bir başarısının
+Se dio cuenta de que nada de lo que lograra
 
 00:01:12.375
-öğrencilerininkilerle kıyaslanamayacağını fark etti.
+podría compararse con las contribuciones de sus alumnos.
 
 00:01:15.375
-Hiç bilmiyordum.
+No tenía idea.
 
 00:01:18.583
-Onun yaptığı fedakârlık bu oldu.
+Ese fue su sacrificio.
 
 00:01:22.291
-Sevgili dostum.
+Querido amigo.
 
 00:01:24.125
-Konsey, Gelişim Günü konuşmasını senin yapmanı önerdi.
+El Consejo recomendó que des el discurso del Día del Progreso este año.
 
 00:01:28.125
-Ne… Ama konuşmayı hep siz yapıyorsunuz. Yerinizi dolduramam.
+¿Qué? Pero usted da ese discurso. Nunca podría ocupar su lugar.
 
 00:01:33.666
-Onlara katılıyorum.
+Estoy de acuerdo con ellos.
 
 00:01:35.666
-Hexgeçitlerin şehrimize çok şey kattı.
+Tus Hexgates han hecho maravillas por nuestra ciudad.
 
 00:01:38.833
-Uzak diyarlardan âlimler getirdi. Sanat ve bilim tutkusunu yeniden ateşledi.
+Trajo eruditos de tierras lejanas. Reavivó la pasión por las artes y la ciencia.
 
 00:01:44.833
-Bu onuru hak ediyorsun.
+Te mereces este honor.
 
 00:01:48.791
-Piltover'ı gururlandırmak için elimden geleni yapacağım Profesör.
+Yo… Haré lo que pueda para enorgullecer a Piltóver, profesor.
 
 00:01:52.458
-Biraz ani oldu, biliyorum.
+Es con poco tiempo, lo sé,
 
 00:01:53.916
-Ama belki laboratuvarda paylaşabileceğin bir şey vardır.
+pero tal vez haya algo en el laboratorio que puedas compartir.
 
 00:01:58.000
-İnsanlar büyük sürprizleri sever.
+La gente ama las grandes revelaciones.
 
 00:02:00.000
-Viktor'la tam aradığınız şeyi yaptık. Hextech'in yeni aşaması.
+Viktor y yo tenemos algo. El próximo capítulo de Hextech.
 
 00:02:03.541
-Öğleden sonra laboratuvara gelin, göstereyim.
+Venga al laboratorio esta tarde, le mostraré.
 
 00:02:05.791
-Dört gözle bekliyorum.
+Lo espero con ansias.
 
 00:02:07.375
-Beklentiler çok büyük evlat.
+Tienes que estar a la altura, muchacho.
 
 00:04:04.458
-PILTOVER, GELİŞİM GÜNÜ
+PILTÓVER DÍA DEL PROGRESO
 
 00:04:07.875
-Gelişim Günü'nüz kutlu olsun.
+Feliz Día del Progreso.
 
 00:04:32.166
-En ünlü öğrencimiz Jayce Talis.
+Nuestro protegido más famoso, Jayce Talis.
 
 00:04:36.583
-Hexgeçitlerin vizyoner mucidi,
+El visionario detrás de los Hexgates,
 
 00:04:39.000
-Muhteşem Gelişim Şehri'mizi ticarete ve refaha taşıyan bir rehber.
+un faro de comercio y prosperidad para nuestra gran Ciudad del Progreso.
 
 00:04:43.083
-Affedersiniz.
+Disculpe.
 
 00:04:44.625
-Pardon. Affedersin.
+Lo siento. Sí. Disculpen.
 
 00:04:47.375
-Çok meşgul biri.
+Es un hombre muy ocupado.
 
 00:04:54.583
--Cait! -Hak ettin.
+- ¡Cait! - Te lo mereces.
 
 00:05:00.958
-Hâlâ ondan kaçıyor musun?
+¿Sigues evitándola?
 
 00:05:02.375
--Çalışıyorum. -Anladım.
+- Estoy trabajando. - Ya veo.
 
 00:05:04.791
-Ailenin çadırının önünde önlemen gereken çok suç vardır.
+Hay mucho crimen que frustrar fuera de la tienda de tu familia.
 
 00:05:08.541
-Beni burada görevlendirmek için kullandığı torpili hayal edemiyorum.
+Me imagino los hilos que movió para enviarme aquí.
 
 00:05:12.208
-Suç aslında sende,
+Es tu culpa, en realidad.
 
 00:05:13.625
-onun gibi "statüne daha uygun" bir kariyer seçmedin.
+Por no seguir una carrera "más acorde con tu posición".
 
 00:05:17.666
-Gerçek dünyayı görmeyeyim diye elinden geleni yapar.
+Ella haría lo que fuera para evitar que vea el mundo real.
 
 00:05:20.541
-En azından konuşmayı en önden izleyebileceksin.
+Al menos estarás en primera fila para el discurso.
 
 00:05:23.791
-Konuşma mı?
+¿El discurso?
 
 00:05:25.666
-Bu akşam büyük konuşmayı ben yapacağım.
+Daré el gran discurso esta noche.
 
 00:05:28.375
-Dünyanın çivisi çıkmış.
+En serio llegamos a la anarquía.
 
 00:05:30.583
-Ayyaşları güderken iyi eğlenceler.
+Diviértete arreando a los borrachos.
 
 00:05:34.125
-Gelişim Günü kutlu olsun!
+¡Feliz Día del Progreso!
 
 00:06:17.166
-Yük beyanı?
+¿Manifiesto de envío?
 
 00:06:19.708
-Arkadaşından. Şehir merkezindeki.
+De tu amigo. En el centro.
 
 00:06:39.958
-Aşağı!
+¡Abajo!
 
 00:06:41.666
-Siktir! Alazışıklar!
+¡Mierda! ¡Los Firelights!
 
 00:06:59.541
-Onlar çıkana dek beş dakikamız var.
+Quedan cinco minutos para que salgan.
 
 00:07:08.541
-Hiç bu kadar Işıltı'yı bir arada görmüş müydün?
+¿Habías visto tanto Brillo antes?
 
 00:07:11.208
-Yayılıyorlar. Aşağıya da bakın. Hepsini yakın!
+Se expanden. Busca más abajo. ¡Quémenlo todo!
 
 00:07:30.291
-Hayır! Açın!
+¡No! ¡Abre!
 
 00:07:35.458
-Açın!
+¡Abre!
 
 00:07:43.708
-Olamaz. O burada!
+No. ¡Está aquí!
 
 00:08:15.791
 BUM
 
 00:08:52.708
-Selam.
+Hola.
 
 00:09:28.000
-Vi?
+¿Vi?
 
 00:09:29.541
-Seni kaybedemem.
+No puedo perderte.
 
 00:09:34.958
-Beni neden bıraktın?
+¿Por qué me dejaste?
 
 00:09:36.791
-Uğursuz deli fişeğin tekisin!
+¡Porque traes mala suerte!
 
 00:09:43.583
--Savaşmak istiyorum. -Hazır değilsin.
+- Quiero pelear. - No estás lista.
 
 00:09:50.625
-Hayır!
+¡No!
 
 00:10:44.166
-Kargoyu koruman gerekiyordu!
+¡Debías vigilar la carga!
 
 00:11:07.291
-Sence onaylayacak mı?
+¿Crees que lo aprobará?
 
 00:11:09.958
-O da bizim gibi bilimin hayatı kolaylaştırması gerektiğine inanıyor.
+Heimerdinger también cree que la ciencia debe usarse para mejorar la vida.
 
 00:11:13.666
-Sadece güvenli olduğunu kanıtlamalıyız.
+Debemos mostrarle que es seguro.
 
 00:11:17.333
-Konsey ne olacak?
+¿Y el Consejo?
 
 00:11:19.708
-İstedikleri gibi kristali dengeledik.
+Estabilizamos el cristal como nos lo pidieron.
 
 00:11:22.375
-İstedikleri gibi Hexgeçitler kurduk.
+Construí los Hexgates como pidieron.
 
 00:11:25.125
-Hextech'in geleceğini belirleme sırası bizde.
+Es nuestro turno de decidir el futuro de Hextech.
 
 00:11:29.541
-Profesör! Gelebilmenize çok sevindim.
+¡Profesor! Me alegra que pudiera venir.
 
 00:11:32.125
-Hayatta kaçırmazdım evlat! Elimizde neler var bakalım?
+No me lo perdería por nada, muchacho. ¿Qué tenemos en la agenda?
 
 00:11:38.875
-Her şey bununla başladı.
+Todo comenzó con esto.
 
 00:11:42.166
-Atölye dışına çıkaramayacağımız kadar
+Un cristal de energía mágica,
 
 00:11:44.541
-dengesiz bir büyülü enerji kristali.
+demasiado volátil para usarse fuera de nuestros talleres.
 
 00:11:47.333
-Hextech sıradan insanın hayatına büyüyü katacaktı.
+Hextech debía traer magia a la vida del hombre común.
 
 00:11:50.666
-Sonunda bunu yapabilecek.
+Y ahora, finalmente, puede.
 
 00:11:55.791
-Hextech Cevher.
+Una gema Hextech.
 
 00:12:09.333
-Bekle!
+¡Espera!
 
 00:12:16.125
-Çarklar aşkına!
+¡Santos cohetes!
 
 00:12:19.458
-Kristalleri güçlendirmenin bir yolunu bulduk.
+Encontramos la forma de fortalecer los cristales.
 
 00:12:21.958
-Yeni hâli dengeli ve tamamen güvenli.
+Esta nueva versión es estable y totalmente segura.
 
 00:12:29.791
-Karşınızda Hextech'in bir sonraki aşaması.
+Le presentamos el próximo capítulo de Hextech.
 
 00:12:34.708
-Artık taşınabilir cihazlar tasarlayabiliriz.
+Ahora podemos diseñar dispositivos portátiles.
 
 00:12:42.750
-Cevher herhangi bir şeye güç sağlayabilir.
+La gema puede potenciar cualquier cosa.
 
 00:13:04.958
-Atlas Eldivenleri.
+Los guanteletes Atlas.
 
-00:13:07.541
-Yarıklardaki madenci kolonileri daha hızlı ve yorulmadan çalışabilir.
+00:13:07.416
+Las colonias mineras en las fisuras pueden trabajar más rápido y sin fatiga.
 
 00:13:13.291
-Hex Pençe.
+La garra Hex.
 
 00:13:16.291
-Güçlü bir ışık hüzmesiyle donatılmış mekanik bir kol.
+Un brazo mecánico equipado con un poderoso rayo de luz.
 
 00:13:28.083
-Zanaatkârlarımızın bununla yapabileceklerini düşünsenize.
+Imagine lo que nuestros artífices podrían hacer con un dispositivo así.
 
 00:13:31.833
-Hextech'in yeni bir dünya kurmamıza olanak sağlamasını istiyorum.
+Quiero que Hextech sea una herramienta para construir un mundo nuevo.
 
 00:13:35.500
-Nihayet bu mümkün!
+Y ahora, ¡finalmente es posible!
 
 00:13:42.666
-Neyse, sunumumuz böyle.
+Como sea, esta es nuestra presentación.
 
 00:13:46.208
-Gerçekten muhteşemdi beyler! Gurur duyuyor olmalısınız.
+¡Increíble, caballeros! Deberían estar orgullosos.
 
 00:13:50.625
-Elbette çözülmesi gereken birkaç detay ve sıkılması gereken somunlar var
+Obviamente, hay que afinar algunos detalles y ajustar tornillos,
 
 00:13:55.333
-ama on yıllık özenli bir araştırmayla hazır olacağına eminim!
+pero con una década de investigación, ¡estará listo!
 
 00:13:59.541
-On yıl mı?
+¿Una década?
 
 00:14:00.666
-Merak etme evlat. Göz açıp kapayıncaya kadar geçer.
+No te preocupes, muchacho. Pasa en un abrir y cerrar de ojos.
 
 00:14:04.750
-Kusura bakmayın Profesör ama Hextech'i şu an kullanabiliriz.
+Con todo respeto, profesor, podemos mejorar vidas con Hextech ahora.
 
 00:14:09.625
-Böyle bir atılım zaman alır Viktor.
+Un descubrimiento así requiere tiempo, Viktor.
 
 00:14:12.125
-Böylesi bir gücü insanların önüne sunmak tehlikeli olur.
+Poner ese poder en manos de todos es peligroso.
 
 00:14:15.500
-Böyle devam edin, Hextech'in suistimalini önlemek için
+Sigue así y estoy seguro de que encontrarás la manera
 
 00:14:18.000
-bir yol bulacağınızdan eminim.
+para proteger a Hextech del mal uso.
 
 00:14:32.791
-Dört veya beş kişilerdi sanırım. Nasıl girdiklerini bilmiyorum.
+Deben haber sido cuatro o cinco. No sé cómo entraron.
 
 00:15:54.333
-Sen alt şehirdensin.
+Eres del distrito suburbano.
 
 00:15:58.125
-Ben bir şey yapmadım. Kafayı yemiş.
+No hice nada. Está loca.
 
 00:16:00.833
-Sakin ol.
+Tranquilo.
 
 00:16:03.041
-Beni vurdu.
+Me disparó.
 
 00:16:04.333
-Kim vurdu? Kime çalışıyordun?
+¿Quién te disparó? ¿Para quién trabajabas?
 
 00:16:07.666
-Söyleyemem. Beni öldürür.
+No puedo. Me matará.
 
 00:16:09.875
-Kim?
+¿Quién?
 
 00:16:12.166
-Seni koruyabilirim.
+Puedo protegerte.
 
 00:16:13.916
-Caitlyn Kiramman. Neden şaşırmadım acaba?
+Caitlyn Kiramman, ¿por qué no me sorprende?
 
 00:16:17.541
-Yine bir soruşturmaya engel oluyorsun.
+Otra vez interfiriendo en una investigación.
 
 00:16:20.500
-Annenin çadırını koruman gerekiyordu.
+Se supone que cuides la tienda de tu madre.
 
 00:16:23.083
-Öyle yapıyordum Şerif ama ihtiyacı yok. Bunun daha öncelikli olduğu açık.
+Sí, comisario, pero ella no lo necesita. Y, claramente, esto tiene prioridad.
 
-00:16:28.083
-Her istediğini elde etmeye alışkınsın Kiramman
+00:16:27.833
+Sé que estás acostumbrada a salirte con la tuya, Kiramman,
 
-00:16:30.291
-ama burada bir emir komuta zinciri var.
+00:16:30.541
+pero por algo hay una cadena de mando.
 
-00:16:32.208
-Anlıyorum.
+00:16:32.458
+Lo entiendo.
 
 00:16:33.875
-Ama burada olay kaçakçılıktan ibaret değil.
+Pero aquí hay más que solo contrabando.
 
 00:16:36.708
--Onu bir sorgulayabilirsem… -Buradan ben devralayım.
+- Si pudiera interrogarlo, podría… - Yo me encargo desde aquí.
 
 00:16:39.666
-Madem yapacak iş arıyorsun,
+Ya que buscas más trabajo,
 
 00:16:41.291
-panayırdaki gece devriyesi senin olsun.
+puedes tomar el turno noche hoy en la feria.
 
 00:16:44.708
--Emredersiniz. -Güzel.
+- Sí, señor. - Bien.
 
-00:16:47.000
-Bunu tekneyle Durgunsu'ya postalayın.
+00:16:46.750
+Lo quiero en un barco a la prisión Stillwater.
 
 00:16:48.958
-Emredersiniz.
+Sí, señor.
 
 00:16:57.416
-SAF HAVA
+AIRE PURO
 
 00:17:08.208
-SON DAMLA
+LA ÚLTIMA GOTA
 
 00:17:34.375
--Bize ateş etti. -Savaş sırasında aksilikler olur.
+- Nos disparó. - Siempre hay percances en la batalla.
 
 00:17:38.791
-Hedefi Alazışıklardı, çoğu da öldü.
+Su objetivo eran los Firelights, y la mayoría están muertos.
 
 00:17:43.166
-Aksilik değildi. Donakaldı, kendini kaybetti.
+No fue un percance. Se congeló y se volvió loca.
 
 00:17:47.666
-O piçleri ben halledebilirdim. Kız sorun yaratıyor, hepimiz farkındayız.
+Podría haberme ocupado de esos mocosos. Es un problema y todos lo sabemos.
 
 00:17:51.541
-"Hepimiz" mi?
+¿Todos?
 
 00:17:53.750
-"Hepimiz" kim?
+¿Todos quiénes?
 
 00:17:57.541
-Bahanelerden fazlasını sunmanı beklerdim.
+Espero más de ti que excusas.
 
 00:18:00.500
-İşlerin yolunda gitmesi senin görevindi.
+Era tu trabajo asegurarte de que todo saliera bien.
 
 00:18:04.666
-Başarısız oldun. Beni bir daha hayal kırıklığına uğratma.
+Fallaste. No vuelvas a decepcionarme.
 
 00:18:16.416
-Hexgeçitler sayesinde dünya giderek küçülüyor.
+El mundo se hace cada día más pequeño gracias a los Hexgates.
 
 00:18:21.583
-Biz dışarıda kaldık.
+Y ahora estamos aislados.
 
 00:18:23.958
-Yukarıdakiler bizi gittikçe daha fazla geride bırakıyor.
+Los de arriba nos dejan cada vez más atrás.
 
 00:18:28.625
-Ne oldu?
+¿Qué pasó?
 
 00:18:30.458
-O anlattı zaten.
+Ya te lo ha dicho.
 
 00:18:33.250
-Ben sana soruyorum.
+Te estoy preguntando a ti.
 
 00:18:38.250
-O Alazışık manyaklarından biri kızdı. Pembe saçlı.
+Uno de esos locos Firelights era una chica. Con el pelo rosa.
 
 00:18:52.541
-Ablan artık yok.
+Tu hermana se fue.
 
 00:18:54.833
--Bunu benim kadar iyi biliyorsun. -Biliyorum!
+- Lo sabes tan bien como yo. - Lo sé.
 
 00:18:58.750
-Kardeşler böyle işte.
+Hermanas, ¿no?
 
 00:19:00.375
-Olsa bir dert, doğduğu yere geri soksan başka dert.
+No puedes vivir con ellas ni volver a meterlas en la máquina de bebés.
 
 00:19:05.666
-Bugünkü fiyasko bizi haftalarca geciktirecek.
+La cagada de hoy nos retrasará semanas.
 
 00:19:10.458
-Özür dilerim.
+Lo siento.
 
 00:19:11.583
-Sana güvenebileceğimden emin olmam gerek.
+Necesito saber que puedo confiar en ti.
 
 00:19:15.958
-Bunu bizim için yapıyorum Jinx. Hepimiz için.
+Lo hago por nosotros, Jinx. Por todos nosotros.
 
 00:19:19.916
-Zaun'un evlatları onlara sunulandan fazlasını hak ediyor.
+Los hijos e hijas de Zaun merecen más que una segunda vuelta.
 
 00:19:26.041
-Bir daha olmayacak.
+No volverá a pasar.
 
 00:19:28.500
-Biliyorum.
+Lo sé.
 
 00:19:40.791
-Sevika bugünün işini temizleyecek.
+Sevika limpiará el desastre de hoy.
 
 00:19:42.500
-Sevika mı? O gulyabani alev silahıyla toz yumağı bile temizleyemez.
+¿Sevika? Ese ogro no podría limpiar un conejito con un soplete.
 
 00:19:46.708
-O iş görür. Sen aletlerine odaklan.
+Será suficiente. Deberías enfocarte en tus aparatos.
 
 00:19:52.916
-Biraz kafa dinle.
+Tómate tu tiempo.
 
 00:19:54.375
-Kafa dinlemeye ihtiyacım yok.
+No necesito tiempo.
 
 00:19:58.833
-Yine de yap.
+Tómalo de todos modos.
 
 00:20:23.208
-Bağış etkinliği iyi gidiyor.
+La recaudación va bien.
 
 00:20:26.541
-Annen seninle gurur duyardı.
+Tu madre estaría orgullosa.
 
 00:20:28.875
--Öyle mi? -Sosyalleşmekten sıkıldın mı?
+- ¿En serio? - ¿Cansada de socializar?
 
 00:20:33.041
-Bana sunabilecekleri yeni bir şey yok.
+Esta gente no tiene nada nuevo que ofrecerme.
 
 00:20:36.041
-Vaktimi gerçekten hak eden tek kişi o.
+El único que vale la pena es él.
 
 00:20:39.333
-Altın çocuk.
+El niño dorado.
 
 00:20:41.750
-Piltover'ın kalbini çaldı.
+Se ganó el corazón de Piltóver.
 
 00:20:43.750
-GELİŞİM ADAMI
+HOMBRE DEL PROGRESO
 
 00:20:45.125
-İyi insan lafının üstüne gelirmiş.
+Hablando de Roma.
 
 00:21:02.041
-Seni biraz ödünç alabilir miyim?
+¿Me permite un minuto?
 
 00:21:14.916
-Bu zevki neye borçluyum?
+¿A qué debo el placer?
 
 00:21:18.416
-Heimerdinger.
+Es Heimerdinger.
 
 00:21:20.750
-Ne zaman değil ki?
+¿Cuándo no lo es?
 
 00:21:22.041
-Ona araştırmamızı gösterdik. Daha fazla vakte ihtiyacımız var diyor.
+Le mostramos nuestra investigación. Cree que necesitamos más tiempo.
 
 00:21:25.833
-Bugün Gelişim Günü!
+¡Es el Día del Progreso!
 
-00:21:27.291
-Tüm dünyadan temsilciler
+00:21:27.166
+Representantes de todo el mundo
 
-00:21:28.916
-Gelişim Şehri'nin sunacağı yeni harikaları görmeye geldi.
+00:21:28.666
+vinieron a ver las nuevas maravillas que ofrece la Ciudad del Progreso.
 
 00:21:32.166
-Yeni bir icadı tanıtmanın tam vakti.
+Si hay un momento para presentar una nueva creación, es ahora.
 
 00:21:37.500
-Harika.
+Genial.
 
 00:21:41.208
-Heimerdinger harika bir bilim insanı. Ama yaşlı. Sadece geçmişe bakıyor.
+Heimerdinger es un gran científico. Pero es viejo. Solo ve el pasado.
 
 00:21:47.416
-Piltover'ın, yüzü geleceğe bakan bir lidere ihtiyacı var.
+Piltóver necesita un líder que mire hacia adelante.
 
 00:21:50.666
--Senin gibi birine. -Buna gerçekten inanıyor musun?
+- Alguien como tú. - ¿De verdad cree eso?
 
 00:21:55.000
-Hextech her şeyi değiştirebilecek bir potansiyele sahip.
+Hextech tiene el potencial de cambiarlo todo.
 
 00:21:58.916
-Dünya buna hazır.
+El mundo está listo.
 
 00:22:00.375
-Birkaç olası yatırımcıyla konuştum bile.
+Y ya hablé con varios potenciales inversionistas.
 
 00:22:02.916
-Yatırımcı mı?
+¿Inversionistas?
 
 00:22:03.875
-Tabii ki. Herkes Hextech'i kendine istiyor.
+Por supuesto. Todos quieren Hextech para ellos.
 
 00:22:08.208
-Bu senin konuşman. İnsanlara geleceği göster.
+Es tu discurso. Dale a la gente un vistazo del futuro.
 
 00:22:27.083
-O değildi.
+No era ella.
 
 00:22:33.166
-Değildi!
+¡No era ella!
 
 00:22:38.416
-Biliyorum. Özenti bir sokak şırfıntısının tekiydi.
+Lo sé. Solo una aspirante a basura callejera.
 
 00:22:42.833
-Sadece biraz kafam karıştı. Bu yüzden zayıf olduğumu düşünüyor.
+Me confundí, eso es todo. Ahora él cree que soy débil.
 
 00:22:49.541
-"Sevika temizleyecek."
+"Sevika lo limpiará".
 
 00:22:51.125
-Sevika her işe koşar!
+¡Sevika siempre está disponible!
 
 00:22:56.708
-Ben zayıf değilim!
+¡No soy débil!
 
 00:23:02.708
-GELİŞİM GÜNÜ
+DÍA DEL PROGRESO
 
 00:23:05.458
-Ona göstereceğim.
+Y se lo voy a demostrar.
 
 00:23:07.166
-Ona göstereceğim. Göreceksin!
+Se lo demostraré. ¡Ya verás!
 
 00:23:22.625
-Neredeydin?
+¿Dónde estabas?
 
 00:23:23.750
-Konuşmayı benim yapmamı istediler.
+Me preguntaron si podía dar el discurso.
 
 00:23:26.166
-Benimle podyuma çık. Ortağız sonuçta.
+Deberías subir conmigo. Somos socios.
 
 00:23:28.500
-Hayır. Onca insanın önüne çıkamam.
+No. No frente a todos ellos.
 
 00:23:33.875
-Konuşmanı hazırladın mı?
+¿Preparaste el discurso?
 
 00:23:38.833
-Piltover'ın ve tüm insanlığın geleceğine ilham veren adam.
+Una inspiración para el futuro de Piltóver y el de toda la humanidad.
 
 00:23:44.125
-Alkışlarınızla onu sahneye çağırıyorum. Jayce Talis.
+Démosle la bienvenida a… Jayce Talis.
 
 00:23:50.250
-Sanırım zamanı geldi.
+Supongo que es hora.
 
 00:23:53.208
-GELİŞİM ADAMI
+HOMBRE DEL PROGRESO
 
 00:24:31.208
-İyi akşamlar.
+Buenas noches.
 
 00:24:33.833
-Çoğunuzun bugün beni burada görmeyi beklemediğini biliyorum.
+Sé que muchos de ustedes no esperaban verme aquí hoy.
 
 00:24:37.625
-İnanın, ben de sizin kadar şaşkınım.
+Y créanme, estoy tan sorprendido como ustedes.
 
 00:24:47.083
-Ben ve ailem basit insanlarız. Fabrikamızda çekiç yapardık.
+Mi familia y yo somos personas simples. En nuestra fábrica, hacíamos martillos.
 
 00:24:52.041
-Muhtemelen üstünde durduğunuz taşlar o çekiçlerle yapıldı.
+Seguro se usaron para cortar las piedras sobre las que están parados ahora.
 
 00:24:56.125
-Hayatımdaki kimse benden fazla bir şey beklemiyordu.
+Nadie en mi vida esperaba mucho de mí.
 
 00:24:59.500
-Tam da bu yüzden şu anda olağanüstü bir an yaşıyoruz.
+Y eso es precisamente lo que hace que este momento sea extraordinario.
 
 00:25:05.125
-Birkaç yıl önce Hexgeçitler dünyaya açıldı
+Hace unos años, los Hexgates abrieron sus puertos al mundo
 
 00:25:08.958
-ve Piltover hayallerimizin de ötesinde bir zenginliğe kavuştu.
+e hicieron que Piltóver prosperara más de lo que jamás imaginamos.
 
 00:25:20.791
-Ama işimiz daha bitmedi.
+Pero aún no terminamos.
 
 00:25:35.875
-Bu yıl sizin için yeni bir şey yarattık.
+Este año, hemos creado algo nuevo para ustedes.
 
 00:25:42.666
-Sizinle paylaşacağımız…
+Algo que…
 
 00:25:52.041
-…bir şey…
+Que compartiremos con ustedes…
 
 00:25:58.750
-…ama tabii zamanı geldiğinde.
+cuando llegue el momento.
 
 00:26:05.125
-Tüm zorluklarınızın üstesinden gelecek bir şey.
+Cosas que acabarán con sus adversidades,
 
 00:26:07.458
-İster yüksek hanelerimizin vârisi olun
+ya sean descendientes de nuestra Gran Casa
 
 00:26:09.833
-ister yer altındaki dürüst bir işçi.
+o trabajadores honestos del subterráneo.
 
 00:26:12.208
-İlerlemeye devam edeceğiz çünkü biz Gelişim Şehri'yiz.
+Juramos seguir adelante, pues somos la Ciudad del Progreso.
 
 00:26:15.916
-Geleceğimiz parlak!
+¡Y nuestro futuro es brillante!
 
 00:26:46.625
-Bu kadar mı?
+¿Eso es todo?
 
 00:26:47.875
-Talis denen çocuğu dâhi sanıyordum.
+Pensé que Talis era una especie de genio.
 
 00:26:50.666
-Geçen yıl kıtanın öbür ucuna bir balon yollamamış mıydı?
+El año pasado, ¿no lanzó un dirigible por el continente?
 
 00:26:53.250
-Ona zeplin denir.
+Aeronave, en realidad.
 
 00:26:54.500
-Zeplinin gövdesi sert olur. Balon değil.
+Una aeronave tiene un casco de metal rígido. No es un dirigible.
 
 00:26:59.125
--Hepsi balon değil mi? -Görünüşü kesinlikle öyle.
+- Es un globo, ¿no? - Eso parece.
 
 00:27:03.458
-Sizin kadar kültürlü değiliz hanımefendi, kusura bakmayın.
+Disculpe si no somos tan refinados como usted, señorita.
 
 00:27:08.208
-Burada ne yapıyorsun Kiramman? Kokteyl partin falan yok mu?
+¿Qué haces aquí, Kiramman? ¿No tienes que ir a un cóctel?
 
 00:27:16.791
-Yangın. Yangın var!
+Fuego. ¡Fuego!
 
 00:27:24.875
--Ne oluyor? -İtfaiyeyi çağırın!
+- ¿Qué pasa? - ¡Llamen a los bomberos!
 
 00:27:32.875
-Yardım edin! Buradayım, lütfen! İmdat!
+¡Ayuda! ¡Estoy aquí, por favor! ¡Ayúdenme!
 
 00:27:44.958
-Yardım edin! Çok sıcak! Lütfen, sıkıştım!
+¡Ayuda! ¡Hace mucho calor, por favor! Estoy atrapada.
 
 00:27:52.458
-Çaresiz küçük bir kızım, binayı ateşe verdim.
+Soy una niña indefensa que incendió el edificio.
 
 00:27:56.166
-Kazayla oldu. Tamamen kazayla.
+Por accidente. Totalmente por accidente.
 
 00:28:05.333
-Dışarı çıkın. Hemen!
+Fuera. ¡Ahora!
 
 00:28:07.208
-Bir de bu dinamiti getirdim. Hoşça kalın!
+Además, traje esta dinamita. ¡Adiós!
 
 00:28:43.583
-GELİŞİM GÜNÜ KUTLU OLSUN
+FELIZ DÍA DEL PROGRESO
 
 00:28:45.500
-Cevher kayıp. Araştırmalarımızın bir kısmı da öyle.
+La gema desapareció. Junto con algunos de nuestros trabajos de investigación.
 
 00:28:51.416
-Durum hâlâ belirsiz.
+Seguimos investigando.
 
 00:28:53.208
-Alt şehirden olayı üstlenen kimse çıkmadı.
+Nadie en el distrito suburbano se ha hecho responsable.
 
 00:28:58.125
-Nasıl bu hâle geldik?
+¿Cómo llegamos a esto?
 
 00:29:05.458
-Yer altı çok uzun süre başıboş kaldı.
+Durante mucho tiempo, el subterráneo quedó sin control.
 
 00:29:08.875
-Aramız açıldı.
+Perdimos contacto.
 
 00:29:10.333
-Tercih ettiğiniz seçmen kitlesi olmayabilirler
+Puede que no sean tus votantes preferidos,
 
 00:29:12.666
-ama onlar hâlâ bizim halkımız.
+pero siguen siendo nuestra gente.
 
 00:29:14.791
-Alt şehir kontrol edilemez. En azından biz edemeyiz.
+El distrito suburbano no se puede controlar. Nosotros no.
 
 00:29:18.333
-Ne yapacağız o zaman?
+¿Y dónde nos deja eso?
 
-00:29:21.916
-Bay Talis?
+00:29:21.375
+¿Señor Talis?
 
-00:29:22.916
-Artıkçılar çalıntı kristalle bir silah yapabilir mi?
+00:29:22.791
+¿Los excavadores podrían construir un arma con el cristal robado?
 
 00:29:25.875
-Işıltı, yapay uzuvlar, maharetlerine yıllardır tanığız.
+Brillo, reemplazos corporales. Hemos visto su ingenio a lo largo de los años.
 
 00:29:30.125
-Tabii ki yapabilirler.
+Claro que sí.
 
 00:29:35.291
-Doğru kişinin eline geçerse
+En manos de la persona correcta,
 
 00:29:36.916
-bu enerjiyi kullanmaları mümkün olabilir.
+es posible que puedan usar su energía.
 
 00:29:39.791
-Bu meseleyle derhâl ilgilenmeliyiz.
+Debemos ocuparnos de esto de inmediato.
 
 00:29:43.875
-Katılıyorum.
+Estoy de acuerdo.
 
 00:29:45.291
-Bu teknolojiyi korumak benim sorumluluğumdu ama başarısız oldum.
+Era mi responsabilidad proteger esta tecnología y fallé.
 
 00:29:48.875
-Yaptığım hata insanların canına mal oldu.
+Mi error le costó la vida a la gente.
 
 00:29:51.291
-Bu mesele çözülene dek
+He venido a recomendarles
 
 00:29:53.166
-tüm Hextech operasyonlarını durdurmayı öneriyorum.
+que suspendamos todas las operaciones de Hextech hasta que esto se resuelva.
 
 00:29:57.333
-Laboratuvarlarımız, rafineri ve Hexgeçitler de dâhil.
+Incluidos nuestros laboratorios, la refinería y los Hexgates.
 
 00:30:00.916
--Aklını mı kaçırdın? -Hexgeçitler açık kalmalı.
+- ¿Te volviste loco? - Los Hexgates deben permanecer abiertos.
 
 00:30:05.375
-Piltover'ın küresel ticaret hattındaki yeri buna bağlı.
+El estatus de Piltóver como ruta de transporte global depende de eso.
 
 00:30:08.708
-Binlerce insan işinden olacak.
+Miles perderían sus ingresos.
 
 00:30:10.958
-Önceliğimiz Piltover'ın güvenliği değil mi?
+Pero ¿la seguridad de Piltóver no debería ser nuestra prioridad?
 
 00:30:14.875
-Hayatını adadığın işi feda mı edeceksin?
+¿Sacrificarías la obra de tu vida?
 
 00:30:16.833
-Hexgeçitler olmadan mallarım dış piyasaya kıştan önce ulaşmaz!
+Sin los Hexgates, mis bienes no llegarán al mercado extranjero hasta el invierno.
 
 00:30:21.791
-Noxus'lulara sonraki şarap sevkiyatının sirkeye dönüşeceğini mi söyleyeyim?
+¿Debo decirles a los Noxianos
 
-00:30:26.375
-Sayın Konsey Üyeleri, bir çıkmaza gelmiş gibiyiz.
+00:30:23.666
+que su próximo envío de vino será vinagre?
+
+00:30:26.250
+Consejeros, parece que estamos en un punto muerto.
 
 00:30:29.958
-Hexgeçitleri kapatırsak şehrimiz zarar görecek.
+Si cerramos los Hexgates, la ciudad sufrirá.
 
 00:30:33.375
-Ama hiçbir şey yapmazsak suçlulara karşı savunmasız kalacağız.
+Pero si no hacemos nada, somos vulnerables a los malhechores.
 
 00:30:38.500
-Bu şekilde daha çok can yitebilir.
+Puede que se pierdan más vidas.
 
 00:30:41.458
-Belki de daha radikal bir çözüme yönelmemizin vakti gelmiştir.
+Tal vez ha llegado el momento de explorar una solución más radical.
 
 00:30:46.500
-Ne öneriyorsunuz?
+¿Qué sugieres?
 
 00:30:50.291
-Bay Talis güvenliğimize olan bağlılığını gösterdi.
+El señor Talis ha demostrado su compromiso con nuestra seguridad.
 
 00:30:54.583
-Bu uğurda kendi girişimini feda etmeye bile hazır.
+Está dispuesto a sacrificar su propia empresa.
 
 00:30:57.666
-Bana kalırsa Bay Talis Hexgeçitleri korumak için
+Y me parece que solo el señor Talis sabe
 
 00:31:01.208
-yeterli bilgiye sahip.
+qué hacer para asegurar los Hexgates.
 
 00:31:03.708
-Buraya bir koltuk daha eklenmesini
+Propongo que se traiga una nueva silla,
 
 00:31:07.125
-ve Talis Hanesi'nin bu yüce makama yükseltilmesini teklif ediyorum.
+y que la Casa Talis sea elevada a este prestigioso cuerpo.
 
 00:31:10.791
-Ne?
+¿Qué?
 
 00:31:11.708
-Konsey Üyesi olarak yatırımlarımızı koruyacak kaynaklara erişimi olacak.
+Como consejero, tendrás los recursos para proteger nuestras inversiones.
 
 00:31:17.375
-Konsey Üyesi Medarda, bu oldukça olağan dışı bir teklif.
+Consejera Medarda, esto es muy irregular.
 
 00:31:20.875
-Konsey'de nesillerdir yedi koltuk bulunuyor.
+El Consejo ha tenido siete asientos durante generaciones.
 
 00:31:24.166
-Bu çocuğun tecrübesi var mı?
+¿El chico tiene experiencia?
 
 00:31:26.666
-Sadece bilim insanı olarak. Heimerdinger gibi.
+Solo la de un científico. Como Heimerdinger.
 
 00:31:36.750
-Konsey Üyesi Medarda haklı.
+Creo que la consejera Medarda tiene razón.
 
 00:31:39.583
-Hextech'in güvenliği bir bilim insanı tarafından sağlanmalı.
+La seguridad de Hextech debe administrarla un científico.
 
 00:31:43.291
-Katılıyorum.
+Secundo la moción.
 
 00:31:45.041
-Pekâlâ, oylama yapalım mı?
+Entonces, ¿votamos?
 
 00:32:07.208
-Jinx!
+¡Jinx!
 
 00:32:11.541
-Jinx!
+¡Jinx!
 
 00:32:14.833
--Jinx! -Buyurun, benim!
+- ¡Jinx! - ¡Soy yo!
 
 00:32:17.208
-Yarım düzine fedai öldü!
+¡Media docena de Vigilantes muertos!
 
 00:32:19.166
-Fedailer! Öldü!
+¡Vigilantes! ¡Muertos!
 
 00:32:21.333
--Evet. -Bir bina yıkıldı!
+- Sí. - ¡Un edificio hecho pedazos!
 
 00:32:23.416
-Şey… Evet!
+¡Sí!
 
 00:32:26.958
-Sen ne yaptığının farkında mısın?
+¿Tienes idea de lo que hiciste?
 
 00:32:30.291
-Evet. Farkındayım.
+De hecho, sí.
 
 00:32:41.875
-Gelişim Günü'n kutlu olsun!
+¡Feliz Día del Progreso!
 
 00:33:12.083
-Selam.
+Oye.
 
 00:33:13.583
-Nasıl hissediyorsun?
+¿Cómo te sientes?
 
 00:33:17.833
--Olayı çözmeye çok yaklaştım. -Dinlenmen gerekmiyor mu?
+- Tuve un avance en el caso. - ¿No deberías estar descansando?
 
 00:33:20.833
-Şimdi zamanı mı?
+Tengo una pista caliente.
 
 00:33:22.375
-Dinle. Alt şehirdeki şiddetin tek bir elden yönetildiğinden
+Escucha. ¿Recuerdas que sospechaba que había una sola mente
 
 00:33:25.958
-şüphelendiğimi biliyorsun.
+detrás de la violencia en el distrito suburbano?
 
-00:33:27.500
-Büyük komplo.
+00:33:27.625
+La gran conspiración.
 
 00:33:29.500
-Meydana saldıran kimse şüphelimiz o.
+Creo que quien haya atacado la plaza es nuestro sospechoso.
 
 00:33:32.708
-Hexgeçitlerdeki başarısız kaçakçılık işinde aynı semboller vardı.
+Estaban los mismos símbolos en la fallida operación de contrabando de Hexgates.
 
 00:33:36.416
--Hexgeçitler mi? -Geride kalma.
+- ¿Los Hexgates? - Sígueme.
 
 00:33:38.041
-Bunca zamandır işlerini alt şehirde hallediyorlardı.
+Todo este tiempo, mantuvieron sus negocios en el distrito suburbano.
 
 00:33:41.666
-"Düşük öncelikli." Meydana yapılan saldırı işleri değiştirdi.
+Prioridad baja. El ataque a la plaza cambia las cosas.
 
 00:33:45.250
-Hadlerini aştılar. Bunu kimin yaptığını bulabilirsem
+Se pasaron de la raya. Si puedo averiguar quién hizo esto,
 
 00:33:47.958
-doğrudan bu işin arkasındaki kişiye ulaşabilirim.
+podría llevarme directo a quien esté detrás de todo esto.
 
 00:33:50.666
-Cevap burada bir yerde, bana dimdik bakıyor.
+La respuesta está aquí, mirándome a la cara.
 
 00:33:54.625
-Hissedebiliyorum.
+Puedo sentirlo.
 
 00:33:58.708
-Bunları nasıl kanıtlamayı düşünüyorsun?
+¿Cómo piensas probar todo esto?
 
 00:34:02.583
-Bir çözebilsem Marcus illa ki dinler.
+Si logro resolver esto, Marcus tendrá que escuchar.
 
 00:34:08.291
-Konsey hakkında öğrendiğim bir şey varsa
+Si hay algo que aprendí sobre el Consejo
 
 00:34:10.500
-o da teoriden fazlasını bekledikleri.
+es que necesitan más que teorías.
 
 00:34:12.958
-Konsey'in ne düşündüğü ne zamandır umurunda?
+¿Desde cuándo te preocupa la opinión del Consejo?
 
 00:34:17.333
-Ben de Konsey'e
+Desde que yo…
 
 00:34:19.250
-katıldığımdan beri.
+pasé a ser un consejero.
 
 00:34:23.166
-Ciddisin. Ne zaman? Neden?
+Hablas en serio. ¿Cuándo? ¿Por qué?
 
 00:34:27.583
-Makine yağı ve aletlerle şehir yönetmeyi mi buldular?
+¿Descubrieron cómo gobernar con grasa y una llave?
 
 00:34:31.916
-Aslında ekibime katılmayı düşünür müsün diye soracaktım.
+Esperaba que consideraras unirte a mi personal.
 
 00:34:39.500
-"Talis Hanesi Güvenliği" mi?
+¿"Seguridad Casa Talis"?
 
 00:34:42.583
-O göstermelik bir pozisyon. Masa başından ayrılamam.
+Es una posición ceremonial. Viviría detrás de un escritorio.
 
 00:34:45.625
-Neredeyse ölüyordun Cait. Sadece güvende olmanı istiyorum.
+Casi mueres, Cait. Solo quiero que estés a salvo.
 
 00:34:49.833
-Sağ ol ama benim bir işim var zaten.
+Gracias, pero ya tengo trabajo.
 
 00:34:53.083
-Hayır, yok.
+No. No tienes trabajo.
 
 00:34:56.083
-Saldırıdan sonra ailen Şerif'le konuştu.
+Después del ataque, tus padres hablaron con el comisario.
 
 00:35:00.291
-Elimden bu kadarı geldi.
+Esto es lo mejor que pude hacer.
 
 00:35:02.583
-Sadakana ihtiyacım yok Konsey Üyesi. Ne senin ne de ailemin.
+No necesito caridad, consejero. La tuya o la de mis padres.
 
 00:35:06.583
--Cait. -Çık dışarı.
+- Cait - Vete.
 
 00:35:18.208
-DURGUNSU HAPİSHANESİ
+PRISIÓN STILLWATER
 
 00:35:38.250
-Mahkûmlardan biriyle konuşmalıyım.
+Necesito hablar con uno de los reclusos.
 
 00:35:40.833
-Buradaki insanlar pek konuşkan değildir.
+La gente aquí no habla mucho.
 
 00:35:44.666
-Bunu kendi arkadaşları vurdu.
+A este lo alcanzó un fuego amigo.
 
 00:35:47.125
-Konuşmak için sebebi var. Bugün alınmış olması lazım.
+Tiene motivos para hablar. Debe haber sido enviado hoy.
 
 00:35:52.083
-Tamam. Mahkûm 2135.
+Recluso 2135.
 
 00:35:56.875
-Ne yazık ki mümkün değil.
+Sí, me temo que no es posible.
 
 00:36:00.458
-Neden?
+¿Por qué no?
 
 00:36:01.750
-Bir olay oldu.
+Bueno, hubo un incidente.
 
 00:36:04.458
-Ne tür bir olay?
+¿Qué tipo de incidente?
 
 00:36:05.625
-Pek hoş olmayanından.
+De los que no son bonitos.
 
 00:36:12.250
-Anlamıyorsunuz, onunla konuşmalıyım.
+No entiendes, tengo que hablar con él.
 
 00:36:15.250
-Elbette, konuşursunuz. Bir daha çenesini oynatabilirse tabii.
+Podrás hacerlo. En cuanto pueda mover la mandíbula de nuevo.
 
 00:36:21.291
-Ona kim saldırdı?
+¿Quién lo atacó?
+
+00:36:48.416
+VI
 
 00:36:50.041
-Sen de kimsin?
+¿Quién diablos eres?
 
-00:36:59.833
-Alt yazı çevirmeni: Berk Ersever
+00:36:51.875
+Subtítulos: Victoria Parma

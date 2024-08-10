@@ -1,20 +1,15 @@
-// https://greasyfork.org/en/scripts/26654-netflix-subtitle-downloader
-// Downloaded on March 19, 2022.
-// Enables downloading of Netflix subtitles. Can download entire series at once.
-// Used with TamperMonkey (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-// This is just a local copy, just in case. May be out of date. Updated and used through Chrome Extension above.
-// IMPORTANT: I modified this to write the videoId into the file name as a quick hack to pass that info to a python script.
-
 // ==UserScript==
 // @name        Netflix - subtitle downloader
 // @description Allows you to download subtitles from Netflix
 // @license     MIT
-// @version     4.1.0
+// @version     4.2.3
 // @namespace   tithen-firion.github.io
 // @include     https://www.netflix.com/*
 // @grant       unsafeWindow
 // @require     https://cdn.jsdelivr.net/npm/jszip@3.7.1/dist/jszip.min.js
 // @require     https://cdn.jsdelivr.net/npm/file-saver-es@2.0.5/dist/FileSaver.min.js
+// @downloadURL https://update.greasyfork.org/scripts/26654/Netflix%20-%20subtitle%20downloader.user.js
+// @updateURL https://update.greasyfork.org/scripts/26654/Netflix%20-%20subtitle%20downloader.meta.js
 // ==/UserScript==
 
 class ProgressBar {
@@ -89,6 +84,7 @@ const DOWNLOAD_MENU = `
 <li class="download-all series">Download subs for all seasons</li>
 <li class="ep-title-in-filename">Add episode title to filename: <span></span></li>
 <li class="force-all-lang">Force Netflix to show all languages: <span></span></li>
+<li class="pref-locale">Preferred locale: <span></span></li>
 <li class="lang-setting">Languages to download: <span></span></li>
 <li class="sub-format">Subtitle format: prefer <span></span></li>
 </ol>
@@ -148,6 +144,7 @@ let batchToEnd = null;
 
 let epTitleInFilename = localStorage.getItem('NSD_ep-title-in-filename') === 'true';
 let forceSubs = localStorage.getItem('NSD_force-all-lang') !== 'false';
+let prefLocale = localStorage.getItem('NSD_pref-locale') || '';
 let langs = localStorage.getItem('NSD_lang-setting') || '';
 let subFormat = localStorage.getItem('NSD_sub-format') || WEBVTT;
 
@@ -156,6 +153,9 @@ const setEpTitleInFilename = () => {
 };
 const setForceText = () => {
   document.querySelector('#subtitle-downloader-menu .force-all-lang > span').innerHTML = (forceSubs ? 'on' : 'off');
+};
+const setLocaleText = () => {
+  document.querySelector('#subtitle-downloader-menu .pref-locale > span').innerHTML = (prefLocale === '' ? 'disabled' : prefLocale);
 };
 const setLangsText = () => {
   document.querySelector('#subtitle-downloader-menu .lang-setting > span').innerHTML = (langs === '' ? 'all' : langs);
@@ -186,6 +186,17 @@ const toggleForceLang = () => {
   else
     localStorage.setItem('NSD_force-all-lang', forceSubs);
   document.location.reload();
+};
+const setPreferredLocale = () => {
+  const result = prompt('Netflix limited "force all subtitles" usage. Now you have to set a preferred locale to show subtitles for that language.\nPossible values (you can enter only one at a time!):\nar, cs, da, de, el, en, es, es-ES, fi, fr, he, hi, hr, hu, id, it, ja, ko, ms, nb, nl, pl, pt, pt-BR, ro, ru, sv, ta, te, th, tr, uk, vi, zh', prefLocale);
+  if(result !== null) {
+    prefLocale = result;
+    if(prefLocale === '')
+      localStorage.removeItem('NSD_pref-locale');
+    else
+      localStorage.setItem('NSD_pref-locale', prefLocale);
+    document.location.reload();
+  }
 };
 const setLangToDownload = () => {
   const result = prompt('Languages to download, comma separated. Leave empty to download all subtitles.\nExample: en,de,fr', langs);
@@ -221,6 +232,7 @@ const popRandomElement = arr => {
 const processSubInfo = async result => {
   const tracks = result.timedtexttracks;
   const subs = {};
+  let reportError = true;
   for(const track of tracks) {
     if(track.isNoneTrack)
       continue;
@@ -232,12 +244,34 @@ const processSubInfo = async result => {
 
     const formats = {};
     for(let format of ALL_FORMATS) {
-      if(typeof track.ttDownloadables[format] !== 'undefined')
-        formats[format] = [Object.values(track.ttDownloadables[format].downloadUrls), EXTENSIONS[format]];
+      const downloadables = track.ttDownloadables[format];
+      if(typeof downloadables !== 'undefined') {
+        let urls;
+        if(typeof downloadables.downloadUrls !== 'undefined')
+          urls = Object.values(downloadables.downloadUrls);
+        else if(typeof downloadables.urls !== 'undefined')
+          urls = downloadables.urls.map(({url}) => url);
+        else {
+          console.log('processSubInfo:', lang, Object.keys(downloadables));
+          if(reportError) {
+            reportError = false;
+            alert("Can't find subtitle URL, check the console for more information!");
+	  }
+          continue;
+        }
+        formats[format] = [urls, EXTENSIONS[format]];
+      }
     }
 
-    if(Object.keys(formats).length > 0)
-      subs[lang] = formats;
+    if(Object.keys(formats).length > 0) {
+      for(let i = 0; ; ++i) {
+        const langKey = lang + (i == 0 ? "" : `-${i}`);
+        if(typeof subs[langKey] === "undefined") {
+          subs[langKey] = formats;
+          break;
+        }
+      }
+    }
   }
   subCache[result.movieId] = subs;
 };
@@ -269,10 +303,12 @@ const processMetadata = data => {
     menu.querySelector('.download-all').addEventListener('click', downloadAll);
     menu.querySelector('.ep-title-in-filename').addEventListener('click', toggleEpTitleInFilename);
     menu.querySelector('.force-all-lang').addEventListener('click', toggleForceLang);
+    menu.querySelector('.pref-locale').addEventListener('click', setPreferredLocale);
     menu.querySelector('.lang-setting').addEventListener('click', setLangToDownload);
     menu.querySelector('.sub-format').addEventListener('click', setSubFormat);
     setEpTitleInFilename();
     setForceText();
+    setLocaleText();
     setLangsText();
     setFormatText();
   }
@@ -391,7 +427,6 @@ const pickFormat = formats => {
 const _save = async (_zip, title) => {
   const content = await _zip.generateAsync({type:'blob'});
   saveAs(content, title + '.zip');
-  // saveAs(content, title + '-' + getVideoId() + '.zip');
 };
 
 const _download = async _zip => {
@@ -557,6 +592,7 @@ const injection = () => {
   const WEBVTT = 'webvtt-lssdh-ios8';
   const MANIFEST_PATTERN = new RegExp('manifest|licensedManifest');
   const forceSubs = localStorage.getItem('NSD_force-all-lang') !== 'false';
+  const prefLocale = localStorage.getItem('NSD_pref-locale') || '';
 
   // hide the menu when we go back to the browse list
   window.addEventListener('popstate', () => {
@@ -590,6 +626,8 @@ const injection = () => {
               v.profiles.unshift(WEBVTT);
             if (v.showAllSubDubTracks != null && forceSubs)
               v.showAllSubDubTracks = true;
+            if (prefLocale !== '')
+              v.preferredTextLocale = prefLocale;
           }
           catch (e) {
             if (e instanceof TypeError)
