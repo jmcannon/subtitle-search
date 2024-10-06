@@ -36,3 +36,17 @@ To use:
   Open localhost:8080.
 
 
+TINY VIDEO CREATION PROCESS:
+Use ScreenFlow to screen capture from Netflix. Make sure graphics accelearation is turned off in Chrome advanced
+settings.
+"t" to split.
+"1" to zoom
+"2" to resize to fit.
+Change canvas size to 350 x 350
+Custom save:
+24 fps, 500 kb/s, multi-pass, automatic
+audio: 44.1 khz, 96 k/s, mono
+Export as mp4, place in video-compression directory. Run script and take results from 'compressed' dir.
+
+
+
