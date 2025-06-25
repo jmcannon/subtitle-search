@@ -37,12 +37,12 @@ To use:
 
 
 TINY VIDEO CREATION PROCESS:
-Use ScreenFlow to screen capture from Netflix. Make sure graphics accelearation is turned off in Chrome advanced
+Use ScreenFlow to screen capture from Netflix. Make sure graphics acceleration is turned off in Chrome advanced
 settings.
 "t" to split.
+Change canvas size to 350 x 350
 "1" to zoom
 "2" to resize to fit.
-Change canvas size to 350 x 350
 Custom save:
 24 fps, 500 kb/s, multi-pass, automatic
 audio: 44.1 khz, 96 k/s, mono
