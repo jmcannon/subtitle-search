@@ -49,4 +49,10 @@ audio: 44.1 khz, 96 k/s, mono
 Export as mp4, place in video-compression directory. Run script and take results from 'compressed' dir.
 
 
+COMPRESS VIDEOS
+./compress-videos.sh
+This script automatically grabs compresses .mp4 files off the desktop, move the compressed video into the
+Spanish Book project, and archives the uncompressed video in the 'uncompressed' directory.
+
+
 
